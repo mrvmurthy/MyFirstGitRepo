@@ -1,4 +1,4 @@
 MyFirstGitRepo
 ==============
 
-test git repository changed
+test git repository
